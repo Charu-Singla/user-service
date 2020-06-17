@@ -1,0 +1,8 @@
+com\nagarro\msa\users\userbean\User.class
+com\nagarro\msa\users\controller\UserController.class
+com\nagarro\msa\users\exceptions\ExceptionResponse.class
+com\nagarro\msa\users\userdto\UserDto.class
+com\nagarro\msa\users\UserServiceApplication.class
+com\nagarro\msa\users\exceptions\UserNotFoundException.class
+com\nagarro\msa\users\userrepository\UserRepository.class
+com\nagarro\msa\users\exceptions\CustomizedResponseEntityExceptionHandler.class
