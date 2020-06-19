@@ -1,8 +1,8 @@
-C:\Users\charusingla\Downloads\UserService-master\UserService-master\src\main\java\com\nagarro\msa\users\userbean\User.java
-C:\Users\charusingla\Downloads\UserService-master\UserService-master\src\main\java\com\nagarro\msa\users\exceptions\CustomizedResponseEntityExceptionHandler.java
-C:\Users\charusingla\Downloads\UserService-master\UserService-master\src\main\java\com\nagarro\msa\users\userdto\UserDto.java
-C:\Users\charusingla\Downloads\UserService-master\UserService-master\src\main\java\com\nagarro\msa\users\userrepository\UserRepository.java
-C:\Users\charusingla\Downloads\UserService-master\UserService-master\src\main\java\com\nagarro\msa\users\exceptions\UserNotFoundException.java
-C:\Users\charusingla\Downloads\UserService-master\UserService-master\src\main\java\com\nagarro\msa\users\controller\UserController.java
-C:\Users\charusingla\Downloads\UserService-master\UserService-master\src\main\java\com\nagarro\msa\users\UserServiceApplication.java
-C:\Users\charusingla\Downloads\UserService-master\UserService-master\src\main\java\com\nagarro\msa\users\exceptions\ExceptionResponse.java
+C:\Users\charusingla\Downloads\UserService-master\src\main\java\com\nagarro\msa\users\exceptions\ExceptionResponse.java
+C:\Users\charusingla\Downloads\UserService-master\src\main\java\com\nagarro\msa\users\userdto\UserDto.java
+C:\Users\charusingla\Downloads\UserService-master\src\main\java\com\nagarro\msa\users\userrepository\UserRepository.java
+C:\Users\charusingla\Downloads\UserService-master\src\main\java\com\nagarro\msa\users\UserServiceApplication.java
+C:\Users\charusingla\Downloads\UserService-master\src\main\java\com\nagarro\msa\users\controller\UserController.java
+C:\Users\charusingla\Downloads\UserService-master\src\main\java\com\nagarro\msa\users\exceptions\CustomizedResponseEntityExceptionHandler.java
+C:\Users\charusingla\Downloads\UserService-master\src\main\java\com\nagarro\msa\users\userbean\User.java
+C:\Users\charusingla\Downloads\UserService-master\src\main\java\com\nagarro\msa\users\exceptions\UserNotFoundException.java

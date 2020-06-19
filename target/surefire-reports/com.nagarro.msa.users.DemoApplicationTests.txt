@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.nagarro.msa.users.DemoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.813 s - in com.nagarro.msa.users.DemoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.476 s - in com.nagarro.msa.users.DemoApplicationTests
